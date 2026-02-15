@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EjercicioGit": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
